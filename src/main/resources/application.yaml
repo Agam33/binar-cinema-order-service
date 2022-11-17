@@ -1,0 +1,11 @@
+server:
+  port: 8085
+
+app:
+  jwt:
+    key: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+
+service:
+  client:
+    authService:
+      url: http://localhost:8080
