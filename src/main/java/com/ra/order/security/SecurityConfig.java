@@ -32,7 +32,7 @@ public class SecurityConfig {
                 .csrf().disable()
                 .authorizeRequests()
 
-                .antMatchers("/api/invoice")
+                .antMatchers("/api/order/invoice")
                 .hasRole("ADMIN")
 
                 .anyRequest().authenticated()

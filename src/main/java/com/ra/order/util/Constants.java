@@ -9,7 +9,7 @@ public class Constants {
     public static final String UPDATED_MSG = "updated";
     public static final String DELETED_MSG = "deleted";
     public static final String NOT_FOUND_MSG = "not found";
-    public static final String INVOICE_ENDPOINT = "/api/invoice";
+    public static final String INVOICE_ENDPOINT = "/api/order/invoice";
     public static final String TOKEN_PREFIX = "Bearer ";
     public static final String HEADER = "Authorization";
 
