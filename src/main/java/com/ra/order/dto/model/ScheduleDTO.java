@@ -1,4 +1,4 @@
-package com.ra.report.dto.model;
+package com.ra.order.dto.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

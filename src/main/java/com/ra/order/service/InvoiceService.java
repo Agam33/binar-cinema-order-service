@@ -1,6 +1,6 @@
-package com.ra.report.service;
+package com.ra.order.service;
 
-import com.ra.report.dto.model.FileDB;
+import com.ra.order.dto.model.FileDB;
 import net.sf.jasperreports.engine.JRException;
 
 public interface InvoiceService {

@@ -1,4 +1,4 @@
-package com.ra.report.dto.model;
+package com.ra.order.dto.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

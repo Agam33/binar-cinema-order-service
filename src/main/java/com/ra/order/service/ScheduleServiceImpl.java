@@ -1,7 +1,7 @@
-package com.ra.report.service;
+package com.ra.order.service;
 
-import com.ra.report.dto.model.FileDB;
-import com.ra.report.dto.model.ScheduleDTO;
+import com.ra.order.dto.model.FileDB;
+import com.ra.order.dto.model.ScheduleDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
