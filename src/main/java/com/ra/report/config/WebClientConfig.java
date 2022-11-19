@@ -1,4 +1,4 @@
-package com.ra.order.config;
+package com.ra.report.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

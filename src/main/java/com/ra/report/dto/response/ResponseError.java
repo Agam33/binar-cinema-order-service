@@ -1,4 +1,4 @@
-package com.ra.order.dto.response;
+package com.ra.report.dto.response;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

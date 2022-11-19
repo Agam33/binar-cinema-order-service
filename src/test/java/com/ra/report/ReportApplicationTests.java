@@ -1,10 +1,10 @@
-package com.ra.order;
+package com.ra.report;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderApplicationTests {
+class ReportApplicationTests {
 
 	@Test
 	void contextLoads() {
