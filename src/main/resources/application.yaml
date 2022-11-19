@@ -1,0 +1,14 @@
+server:
+  port: 8094
+
+app:
+  jwt:
+    key: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+
+
+#eureka:
+#  instance:
+#    hostname: binar-cinema-discovery.up.railway.app
+#  client:
+#    serviceUrl:
+#      defaultZone: https://${eureka.instance.hostname}/eureka
